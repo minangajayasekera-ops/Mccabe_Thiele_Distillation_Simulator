@@ -18,7 +18,7 @@ This project combines chemical engineering principles with Python (Numpy + Tkint
 - Educational tool for learning distillation design.
 
 # Installation
-Clone this repository and install required packages listed in requirements.txt:
+Clone this repository and install required packages. Run this in your terminal:
 
 ```bash
 git clone https://github.com/minangajayasekera-ops/mccabe-thiele-simulator.git
