@@ -51,6 +51,5 @@ Future Improvements
 - Overall and Murphree efficiencies
 - Sub-cooled or superheated feed
 
-**Author**
-Developed by [Minanga Jayasekera]
+Developed by **Minanga Jayasekera**
 First-year Chemical Engineering student @ Imperial College London
