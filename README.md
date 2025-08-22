@@ -39,4 +39,6 @@ Usage
 ```
 jupyter notebook
 ```
-- Then open mccabe_thiele.ipynb and run the cells.
+- Then open mccabe_thiele.ipynb and run the code.
+- When the Tkinter GUI pops up input your values.
+- Click "update plot" to see the McCabe-Thiele constrcution with the number of stages.
