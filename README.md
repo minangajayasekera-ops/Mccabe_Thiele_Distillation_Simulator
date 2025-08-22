@@ -18,7 +18,7 @@ This project combines chemical engineering principles with Python (Numpy + Tkint
 - Educational tool for learning distillation design.
 
 # Installation
-Clone this repository and install required packages:
+Clone this repository and install required packages listed in requirements.text:
 
 ```bash
 git clone https://github.com/minangajayasekera-ops/mccabe-thiele-simulator.git
@@ -35,8 +35,8 @@ Dependencies
 - Jupyter Notebook
 
 Usage
-Launch Jupyter Notebook in your terminal:
+-Launch Jupyter Notebook in your terminal:
 ```
 jupyter notebook
 ```
-Then open mccabe_thiele.ipynb and run the cells.
+-Then open mccabe_thiele.ipynb and run the cells.
