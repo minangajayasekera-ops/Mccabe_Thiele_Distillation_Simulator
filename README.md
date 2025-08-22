@@ -44,3 +44,13 @@ jupyter notebook
 - Then open mccabe_thiele.ipynb and run the code.
 - When the Tkinter GUI pops up input your values.
 - Click "update plot" to see the McCabe-Thiele constrcution with the number of stages.
+
+Future Improvements
+- Multi-component distillation
+- Energy balances (reboiler + condenser duties)
+- Overall and Murphree efficiencies
+- Sub-cooled or superheated feed
+
+**Author**
+Developed by [Minanga Jayasekera]
+First-year Chemical Engineering student @ Imperial College London
