@@ -35,8 +35,8 @@ Dependencies
 - Jupyter Notebook
 
 Usage
--Launch Jupyter Notebook in your terminal:
+- Launch Jupyter Notebook in your terminal:
 ```
 jupyter notebook
 ```
--Then open mccabe_thiele.ipynb and run the cells.
+- Then open mccabe_thiele.ipynb and run the cells.
