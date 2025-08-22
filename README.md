@@ -25,7 +25,7 @@ git clone https://github.com/minangajayasekera-ops/mccabe-thiele-simulator.git
 cd mccabe-thiele-simulator
 pip install -r requirements.txt
 
-
+```
 
 Dependencies
 - Python 3.8+
@@ -36,5 +36,7 @@ Dependencies
 
 Usage
 Launch Jupyter Notebook in your terminal:
+```
 jupyter notebook
+```
 Then open mccabe_thiele.ipynb and run the cells.
