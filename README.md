@@ -1,4 +1,4 @@
-# McCabe–Thiele Distillation Simulator
+# McCabe - Thiele Distillation Simulator
 
 ![Example McCabe–Thiele Plot](McCabe_Thiele_example.png)
 
