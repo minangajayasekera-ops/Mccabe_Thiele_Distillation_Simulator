@@ -46,17 +46,16 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-- Then open Heat_exchanger_GUI.ipynb and run the code.
-- When the Tkinter GUI pops up input your values and choose the configuration.
-- Click "update plot" to see the temperature profile with the pipe schematic.
+- Then open mccabe_thiele.ipynb and run the code.
+- When the Tkinter GUI pops up input your values.
+- Click "update plot" to see the McCabe-Thiele constrcution with the number of stages.
 
 ---
 
 # Future Improvements
-- Efficiency metrics
-- Embedding NTU effectiveness
-- Shell and Tube configuration
-- Transient (unsteady state) behaviour
+- Multi-component distillation
+- Overall and Murphree efficiency factors
+- Energy balances including reboiler duty
 
 
 Developed by **Minanga Jayasekera**
