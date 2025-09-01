@@ -33,14 +33,14 @@ pip install -r requirements.txt
 
 ```
 
-Dependencies
+# Dependencies
 - Python 3.8+
 - NumPy
 - Matplotlib
 - Tkinter (usually comes with Python)
 - Jupyter Notebook
 
-Usage
+# Usage
 - Launch Jupyter Notebook in your terminal:
 ```
 jupyter notebook
@@ -51,7 +51,7 @@ jupyter notebook
 
 ---
 
-Future Improvements
+# Future Improvements
 - Multi-component distillation
 - Energy balances (reboiler + condenser duties)
 - Overall and Murphree efficiencies
