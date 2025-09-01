@@ -5,6 +5,8 @@
 An interactive Python tool to visualize and simulate binary distillation using the McCabe-Thiele construction.  
 This project combines chemical engineering principles with Python (Numpy + Tkinter + Matplotlib) to create an educational and design tool.  
 
+---
+
 # Features
 - Interactive GUI elements (Tkinter) for parameter input:
   - Relative volatility 
@@ -18,6 +20,8 @@ This project combines chemical engineering principles with Python (Numpy + Tkint
   - Stage-by-stage construction
 - Displays minimum number of stages including reboiler.
 - Educational tool for learning distillation design.
+
+---
 
 # Installation
 Clone this repository and install required packages. Run this in your terminal:
@@ -44,6 +48,8 @@ jupyter notebook
 - Then open mccabe_thiele.ipynb and run the code.
 - When the Tkinter GUI pops up input your values.
 - Click "update plot" to see the McCabe-Thiele constrcution with the number of stages.
+
+---
 
 Future Improvements
 - Multi-component distillation
