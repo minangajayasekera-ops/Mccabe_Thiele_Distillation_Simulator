@@ -37,7 +37,6 @@ pip install -r requirements.txt
 - Python 3.10+
 - NumPy
 - Matplotlib
-- Scipy
 - Tkinter (usually comes with Python)
 - Jupyter Notebook
 
