@@ -1,6 +1,7 @@
 # McCabe - Thiele Distillation Simulator
 
-![Example McCabe–Thiele Plot](McCabe-Thiele example.png)
+<img width="837" height="539" alt="image" src="https://github.com/user-attachments/assets/598a513c-5a22-414b-b7df-fe8e7427617e" />
+
 
 An interactive Python tool to visualize and simulate binary distillation using the McCabe-Thiele construction.  
 This project combines chemical engineering principles with Python (Numpy + Tkinter + Matplotlib) to create an educational and design tool.  
