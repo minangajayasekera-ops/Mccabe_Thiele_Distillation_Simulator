@@ -7,7 +7,7 @@ This project combines chemical engineering principles with Python (Numpy + Tkint
 
 ---
 
-# Features
+## Features
 - Interactive GUI elements (Tkinter) for parameter input:
   - Relative volatility 
   - Feed composition 
@@ -23,7 +23,7 @@ This project combines chemical engineering principles with Python (Numpy + Tkint
 
 ---
 
-# Installation
+## Installation
 Clone this repository and install required packages. Run this in your terminal:
 
 ```bash
@@ -51,7 +51,7 @@ jupyter notebook
 
 ---
 
-# Future Improvements
+## Future Improvements
 - Multi-component distillation
 - Overall and Murphree efficiency factors
 - Energy balances including reboiler duty
